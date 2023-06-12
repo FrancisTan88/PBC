@@ -1,0 +1,6 @@
+# requirements
+numpy
+pandas
+yfinance
+matplotlib
+pyfolio
